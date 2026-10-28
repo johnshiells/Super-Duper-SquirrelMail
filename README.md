@@ -1,4 +1,4 @@
-> **Status: under development.** APIs, UI, and config may change without notice. Not production-ready.
+![Status](https://img.shields.io/badge/status-under%20development-orange)
 
 # Super-Duper SquirrelMail
 
