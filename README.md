@@ -1,3 +1,5 @@
+> **Status: under development.** APIs, UI, and config may change without notice. Not production-ready.
+
 # Super-Duper SquirrelMail
 
 Hardened fork of [SquirrelMail](https://squirrelmail.org/) **1.4.22**.
